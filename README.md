@@ -1,7 +1,7 @@
 # springboot-terraform
 springboot-terraform
 
-Stpes to deploy the appliaction in AWS cloud.
+Steps to deploy the appliaction in AWS cloud.
 =============================================
 
 1-infrastructure
